@@ -39,6 +39,12 @@ body{
     padding-bottom: 10px;
 }
 
+.header h1{
+    border-bottom: 4px solid lightskyblue;
+    width: fit-content;
+    padding: 5px;
+}
+
 .header .judul{
     font-size: 40px;
     font-weight: bold;
